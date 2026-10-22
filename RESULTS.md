@@ -35,8 +35,6 @@ INA219 statistics from [`data/sample_load.log`](data/sample_load.log), produced 
 3. **Voltage gap (open item):** the INA219 bus voltage (4.983 V) is about 63 mV above the meter reading across the resistor (4.92 V), while the supply terminals read 5.0 V. Either about 2.8 ohm of jumper and breadboard contact resistance sits between Vin- and the resistor, or the INA219 bus reading is about 1.3% high. Measuring from Vin- to the ground rail will decide it.
 4. **Measurement pitfalls found:** a swapped Vin+/Vin- connection produced negative current readings of the correct magnitude, and measuring the resistor in circuit gave 164 ohm instead of 220 ohm because of parallel paths.
 
-## Still to capture
+## Wiring Photo
 
-- Zero offset with Vin+ and Vin- unconnected (about 30 seconds)
-- Vin- to ground-rail voltage, to resolve the 63 mV gap
-- Wiring photos
+![Wiring Photo](./images/wiring-photo.jpg)
