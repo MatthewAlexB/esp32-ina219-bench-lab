@@ -1,2 +1,5 @@
-t= 443.4 s | Bus:  4.988 V | Shunt:   2.260 mV | Load:  4.990 V | Current:    22.60 mA | Power:   114.00 mW
-t= 444.4 s | Bus:  4.988 V | Shunt:   2.220 mV | Load:  4.990 V | Current:    22.20 mA | Power:   112.00 mW
+t= 316.0 s | Bus:  4.984 V | Shunt:   2.270 mV | Load:  4.986 V | Current:    22.20 mA | Power:   112.00 mW
+t= 317.0 s | Bus:  4.984 V | Shunt:   2.240 mV | Load:  4.986 V | Current:    22.40 mA | Power:   112.00 mW
+t= 318.0 s | Bus:  4.980 V | Shunt:   2.260 mV | Load:  4.982 V | Current:    22.60 mA | Power:   112.00 mW
+t= 319.0 s | Bus:  4.984 V | Shunt:   2.260 mV | Load:  4.986 V | Current:    22.60 mA | Power:   112.00 mW
+t= 320.0 s | Bus:  4.984 V | Shunt:   2.220 mV | Load:  4.986 V | Current:    22.20 mA | Power:   112.00 mW
