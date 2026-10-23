@@ -1,0 +1,18 @@
+# Raw captures (keep sample_* files and .gitkeep)
+labs/*/data/*.log
+labs/*/data/*.csv
+!labs/*/data/sample_*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Arduino / editors / OS
+build/
+*.elf
+*.bin
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
